@@ -1,0 +1,359 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"d536ca9d05b488f95c72300bc1f0747943958a093d47e57f66bc8e69a0b75eaf\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAGF7m2gC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "142020100": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.10.1",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 24309,
+      "hash_md5": "fd7adde42afcea6a63519529e3a170de",
+      "hash_sha256": "09dad04cfb2512e22988e3868dae00fdf36f6da44b2f51b4db6e2e43ae539264",
+      "ttl": 100
+    },
+    "139408101": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.10.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 24293,
+      "hash_md5": "ea3ef4ab08a9c2ea745086cb17d4525a",
+      "hash_sha256": "76ee99de2c7f2399c4b1749b07dc65974db56ce5cfde17db9b4f295ac7e1968b",
+      "ttl": 100
+    },
+    "107579519": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.9.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 23529,
+      "hash_md5": "6e8bb6a1ea6c00c2b74b3e8849e18e73",
+      "hash_sha256": "7e82fb144d22d0a8ffdf274b04035eceacf441953326c5d60ede5115bf44a208",
+      "ttl": 100
+    },
+    "99234600": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.8.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22991,
+      "hash_md5": "01727564d170708a5c916993ae09e819",
+      "hash_sha256": "a44bcd20f8a6f17d2dceddcf064df2ec62c36747dddd7ed994d4f845fde8d021",
+      "ttl": 100
+    },
+    "79773575": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.7.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22417,
+      "hash_md5": "96e2795a425c0a9d3e8d368d17da7631",
+      "hash_sha256": "ceaa16c4f8a482939169e2fe251b8ef374127d514190b9bbdaedcb645a6dba5b",
+      "ttl": 100
+    },
+    "59195377": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.6.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22070,
+      "hash_md5": "0f020bcc909f9f807651eec96dee3468",
+      "hash_sha256": "0384fd9e09fd4faf7216fbda1571556684c4068916592493255beda7349c70d4",
+      "ttl": 100
+    },
+    "52222043": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.5.0",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22181,
+      "hash_md5": "ef16f5fd30114d07a26583011567fb5f",
+      "hash_sha256": "4c6cc965cc2dac7697f38e206a39f64e5ec00bb077e50ddcedc8edd992a28651",
+      "ttl": 100
+    },
+    "51370038": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.4",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22146,
+      "hash_md5": "dc086c2265e50499ee512b0cf9a9b607",
+      "hash_sha256": "f82859a8255569b7227446241e52f80ea93252964268a7c7d5b16412329ea3e2",
+      "ttl": 100
+    },
+    "48211323": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.3",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.2"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22150,
+      "hash_md5": "26d031c7db1e407aa818e7c03c3367ee",
+      "hash_sha256": "f5c59b2dbfc8c066b8e05ac39789d3026ef87b4b5418c7c9096e258c25515d6c",
+      "ttl": 100
+    },
+    "43562703": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.2",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22249,
+      "hash_md5": "eecbb3906cba7e1c9ea903b1fac5a235",
+      "hash_sha256": "9aa7c8ea32c69ffb8519f87667f25c9f32a126d255118b0b88398fb63fc38203",
+      "ttl": 100
+    },
+    "43419545": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.4.1",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 22243,
+      "hash_md5": "bff8b4ef01e2bc0d96651faeed87023c",
+      "hash_sha256": "4688818374fdd12dfff76b5ebd2012e485a72a46ab94b7b8a4ae676da8bebaca",
+      "ttl": 100
+    },
+    "43184486": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.3.3",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.1"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 21598,
+      "hash_md5": "f5772dc5a537c470dc26689050bc1465",
+      "hash_sha256": "11ce887f805181c4f06148d89cad4c225e3eff8bd918f63bf839c9492949d11a",
+      "ttl": 100
+    },
+    "42573153": {
+      "meta": {
+        "schema_version": 4,
+        "id": "quick_backup_multi",
+        "name": "Quick Backup Multi",
+        "version": "1.2.2",
+        "link": "https://github.com/TISUnion/QuickBackupM",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b3"
+        ],
+        "description": {
+          "en_us": "A backup / restore plugin, with multiple backup slot",
+          "zh_cn": "多槽位备份/回档插件"
+        }
+      },
+      "size": 21340,
+      "hash_md5": "1ffe637655cd43d34e9205e147a9d767",
+      "hash_sha256": "a601a65f8252e7ef3768dfa083130109d76dca74cda9e36d47c6fb5df4b538e1",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"d34a928fd3222674894664cf1898f4371aa247140beb76734b5841e1b97b1629\"",
+    "data": "H4sIAGpsj2kC/+2YX2/bNhDAv4rh18WR7DhpbaDoNqQLOrRJu6VYkWEQKOlsMaZIjqTsOYK/+47UH0vOlsXh29CXNiZ5P57Iu+PdlUOaDueDyXT86vV0ejE7GQy5SCFyo8OPl+82N+xnllzNHsjXX9YJX22vL9+d3Vx+Dq/vV2+GdjnJwa79XNBk9SNJVoX8aMcXBWNRM3n7/tcvnAoeHK6Siq6JsWsWhGnAEbHhoPB3OWRiSXlX2go4xabn08k0fP1Y2+3Nara9m/xUkK8yS6/YOr7/PL6+fB9+vFyeW3GCuxEVFYpZicwYqedBUI3q0yU1WREXGlQiuAFuThORB0XQ7Pd2/WZqKUtVc6qN7dAhUdKaViEQqYPud2QmZ4dqdAS6SxeCMbFBQHTMJkErtmdQvnwJA8XKQJgM8OBwfueOgGpzpEJOpHT/4cE5isZDVJAex6mFUCVrKrsyUCBFhStinSgqDS47UrmeqGUJtSScPpAXsFDUIaxeR4o6ESsLazS/I4UrmTJwTpVsd5UOCdA1HvFLgAfClme20nn0Ted4nP2jZLSmsImaFbKIGU3ctVADEUlz583Oz3fP94BHISOF9qKs6A+D2M0NgoECbYSCgWQFRo6TwQZpg7xghkoGzTLNhKldQq06cefpg3H38u86WdZ/ne0TiMDJW9AKtj4cK17afxsHS9CBSSwUwYPxAfc4Ze+n28cAyX34Tt7FRSG8TtLJu4dC6wKeZ/VP8RxGt67FizyuI6A3eu9URGu65AA+tJZRBm2QjhXhSeaFbRBl/Vd122Tpddmkio8xE7EPB5cFjlEGOiP1s2QiT+0s1SL6UAULX6hF7KFG+d23U1O5+26Q+DAavHsfaoMIygbKCF8WZOlFbRnNm78kD6A89awhVZTjRtG48A5ye0wnnYg9Vd1TDnMUf6ps3l9cn1Pj9/WO0Dd7f6y100doO+AZPRtELyZXQb+e8o/6/7hHXRr4GppFBOV3kpisORJJFPidiCUEZUwwwzo9PS0zIFUakIPy8+AK4N4qlWSYE3qwygaBWU9OjEvgF07NFDN6Jkjqo2nLaO3B//nv3b/EwtYH6eR7xJwym7lyvxtqIT02F4YuaPKsMuYpfI9TvtWUJ3BCGDtBkzM0oWjHWCbWL0YMzO+5sAD8DJJDXcQwIH4PW4MogzozTkEysfWNQh2Kc2IFxGC9RIzlTcJJOAono0l4G57Nz8L5eHbnaiWZ9lddjMLxaDK7DWfzs/P5+PyusjOddRdNR+NwNJ7cjl/Nx9NmkY3Rtfb45zMqKPth7hnSWUfw+73Y/EmxhKGFHVu1tXuu+UsKvkzkIDF7aFotmj6A61ld9LOJRBTcHtb4/BVObIjBvPXRcJOKWNinrcnqbgzRUeXqOG5UAfWYVOIeEnMwug8xveENXdEDcZfz7GtMJ0x1UmCubtsM+5mqgGxVnbmooJRoWlUcg8Y++KYdSeSRmPWGhARef06LnNpvpwlwDa65hjWiu3vJRmenYbeRd3X9ZXAFHBRhg0+uhh98qAQH63qplulfde/r6tOHBvC0F9Wb66C7Zbd5l1zcXrH7u9/OH+5uV2+GtkVAbPfJPhMrjC37o6U6MpBL1m8cbiCu05XIVkJiscCk/c+Cqt7ZuGuxrUk7hwGzc4fd4ch5sk3RpEDN3VmhNi5xF5ImVuz3P/DXmmoaU0bNtt/zqCr6+io7F1JfRWOdrV2msCAFM1FVZVlWTrQB5SIBqJy2JlMOe60UaymEckN6QzZ4dH5iWlvZ/H6esfrLd658z2VU+bYRK+CNq6GlGpFbN0AdDHXql7uD7ti3Zu23Zu23Zu3/u1nLwWwwovVfqG593Eyc7f4G8wWy0VMaAAA="
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"f715a9bcb79e9244e0d259d09ede8cf6f64173a8cb40594afed57f25842011c3\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIACRCimkC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "65899821": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.5.1",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 23699,
+      "hash_md5": "ef664d1456453db3c362b59cb1a15b48",
+      "hash_sha256": "c3befb829c84b0e5bfd09b4c4fc98e0b6424fe8dbfed49a19b83b35b47b26d64",
+      "ttl": 100
+    },
+    "61269296": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.5.0",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 23636,
+      "hash_md5": "9e7d2bcaa3222c47b7e6b430fe585656",
+      "hash_sha256": "36fbf13e39ebcdda91944cfb35d77c25168527e3b582e2e544cc3018519d0f2f",
+      "ttl": 100
+    },
+    "58909491": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.4.0",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 23500,
+      "hash_md5": "0ae3417d6013c79f1e0ffc0d30b3dac4",
+      "hash_sha256": "07727eb19015e1149676f408e2063de8a74553a0ff5dd827e3027496f2ebcdba",
+      "ttl": 100
+    },
+    "46153780": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.3.1",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 23507,
+      "hash_md5": "115fd8f23cf6c72b262960af6e1625dd",
+      "hash_sha256": "cf1396b275dfe356dc24f0e0fbf842111d6af1d35c715dbfbe5c0b916b92ccf8",
+      "ttl": 100
+    },
+    "43348146": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.2.0",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta.1"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 23162,
+      "hash_md5": "87d8f69ee9d9d55fd0410fed7f23fd0b",
+      "hash_sha256": "6e39390350be28bc148ca557f289adf207ab48f2b5bb886f2cdd4407a38168ad",
+      "ttl": 100
+    },
+    "42573328": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.1.3",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.7"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b7"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 22964,
+      "hash_md5": "05cee73b1b7af556005ed58830472a7a",
+      "hash_sha256": "e07ba5ad517c771536c5f2d02754bf104e5271df25facc0eab2aa96130f77b45",
+      "ttl": 100
+    },
+    "42472187": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.1.1",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.4"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b4"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 29757,
+      "hash_md5": "bad4433b87316c2e6eecab7197ae554a",
+      "hash_sha256": "760221d296bfc1347920cb2f7c0ea11aeb3e5ff323886e9d52a88ea575065dab",
+      "ttl": 100
+    },
+    "42471434": {
+      "meta": {
+        "schema_version": 4,
+        "id": "stats_helper",
+        "name": "Stats Helper",
+        "version": "7.1.0",
+        "link": "https://github.com/TISUnion/StatsHelper",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0-beta.4"
+        },
+        "requirements": [
+          "mcdreforged>=2.0.0b4"
+        ],
+        "description": {
+          "en_us": "A Minecraft statistic helper",
+          "zh_cn": "一个 Minecraft 统计信息助手"
+        }
+      },
+      "size": 29558,
+      "hash_md5": "5d44d499d2a8b7f52a6091993308d55e",
+      "hash_sha256": "eb1bfbb96005e0e54baf9c7659b5b85b3aa6dc6d845761042f87c19a7629fb81",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"02876ad27c9d30fd9cfdc0db18c44fb77a9c6339022cbe811ceeb7053c98a8d2\"",
+    "data": "H4sIAGpsj2kC/+2YbW/bNhCA/4rhr0si27XT2EDQDcjmdWheujpY52EQKImWGFOkRlJ2HcH/fUdK1Iu7pnH4bciXxKJ4D0/k3fHuij6J+rPecDoZnZ9PRhcnvT7jEfbNaP/66uftLf2NhvPpI/r8+yZk6y+3i/vdzcOfw+uH+LKvp6MU67mfFFLyV0wzLPTwKqfUt+8W7z/dM8KZdzApE2SDlJ6yQlRiGOFbBq9mvaJPeUxYW1gLGLXGk/FoPLiYfqXr7nY93S1Hv+Toc5ZEc7oJHj4Ob67eD66v4okWR7AaEn4uqJZIlMrkzPPKUXkWE5XkQS6xCDlTmKmzkKde7tn13m0ux5oSi4pTLqyHDokZqWglApDSa39HolJ6qEZLoD11xSnlWwD4xyzi1WINg7D4JQwQKzyuEgwbB+/3ZguIVEcqZEQK8w82zlAkbKLA0XGcSghU0qayLzyBM17i8kCGgmQKph2pXEdUs7iIESOP6AUsEDUIrdeRokZEy+INmN+RwqVM4RmnCnf7UocQkw1s8UuAB8Kap3aZcejb1vYY+wdJf0Pw1rczsjygJDTHQhT2UZQabzZ+vn++BxxGjAjX56Qlf+pdE4ZDgVaqB4ahwLhI2EuaKMTFuhVdnv58s/vfXFmjvreB3yZ4Rlxz1njngNHShf5rfSgEH0UBF0hx4cDtYIrOo1lGYZQ64I24CXycu+yiETcXgZQ5fp5VP4EzFFl7DsvToApwruTGZZCUJGYYO8BqROHVETgQiIWJC9USiupXec4odjlmVIa+gPLAAQOzPIMoPJmg6sJRvptuGqoJXabAK0emJjRMJZxO2igpzElbog5rcOoOUEvwCsukiMU5il2gNcJe5DF6xMJNy4pRhjWmBAly16jWUFoZQuCmaAM5zDqcoZm9UGF6SpTTpxtA19qdqdo+vyLrAbdoaQmdEFyG+OqVc4z/zyWqPN/RwjTBK37IkErsfmRIYKft0ACvCBAkS2dnZ0WCUXndp1g4uW0pb+4lESaQ3b0cVVgCpDYpUiYTXxklI0jNKUeRg541orYE52u+c/IZlKcORCPeAaaEYqk4czqcmtFBM67IioTPqkWeoHcwxTtJWIhPEKUnYGuQNROwXyj1qvshwNTpctDy8BFQ/1d1CMXI6RKzhMKrEt8IZ5TvHANPC2I8V2CkoOBBSuNGg+H0dPD2dDBeDCezN5PZeLg0xU4WdWaNJmbWZDGczgaj2fjtsrQwmbQnjWDG6fBCo0bns9F0aYNypTz8/H4JpD/LXDoyacn92EjNnpIKKdjWkUVXveKGvaBcS3iKM8gSbJ9Ekkf9ezgZdbOGkOdMb9R4AONbpCAvPRy1CYdG3e1UUjVSkPRL94ZxJXJcjWWCP+BQHYw2UaUzvCVrciBuMpumcDTCRIY5ZOK6Q9C8KctCq+lwYEKBENx2mRhEiibaRi1J4KGAdoZ4hln1OTXyXH87CTGT2PTFoPYzx57R0zdng3YHbn5z35tjhgWivTtTfvc+lIK9TTVVZtGXqm01v/tgAU+7T7W49NpLtvtu4fliTh+Wf0wel4v1ZV9X90g3jvTFsIaQ0mwtkb7CaUa7Pb8tDqrMxNd1Dl+tIC3/JyeiszfmWHRTUb+DMNk6w/awb3xY52IZB83NXoE2JjfnGQm12F9/w9OGSBIQStSu264oC/XqKFsHUh2FNU5rlhFeoZwqv6yhNCpFUlXtTSxSUltM0e80QbShIMIU6gzpqNF6hOy1NPnmPaXVh+9NWZ5mfunWiq8xs34Ghqp4qr0AdFDEaF/sD/par23W1zbra5v1/91mZVhtIaB1L6h2GWxfDPb/ApfJaUoLGgAA"
+  }
+}
